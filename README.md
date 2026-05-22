@@ -42,8 +42,8 @@ The interface is wrapped in a high-performance **cyberpunk matrix layout** (usin
 Ensure you have a Python environment initialized (Python 3.9 - 3.11 recommended).
 Clone or Download the Repository.
 ```
-git clone <repository-url>
-cd pixeltalk-core
+git clone https://github.com/Swagata191/pixeltalk.git
+cd pixeltalk
 ```
 Install Dependencies
 ```
