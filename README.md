@@ -4,6 +4,8 @@ PixelTalk is a magnificent, dark-themed **Convolutional Neural Network (CNN) dig
 
 The interface is wrapped in a high-performance **cyberpunk matrix layout** (using deep blues, dark purples, and electric cyans) complete with an interactive canvas background that brings neural network outputs to life with responsive pixel-burst animations.
 
+![Homepage]{screenshots/homepage.png}
+
 ---
 
 ## 🌌 Core Features
