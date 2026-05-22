@@ -29,6 +29,9 @@ The interface is wrapped in a high-performance **cyberpunk matrix layout** (usin
 ## 📁 Repository Structure
 
 ```text
+├── demo_images/   
+├── screenshots/
+├── README.md  
 ├── app.py                      # Main Streamlit application with custom CSS & components
 ├── digit_recognition_model.h5  # Compiled Feed-Forward Keras CNN core weights
 ├── model_training.ipynb        # Jupyter notebook documenting architecture training pipelines
