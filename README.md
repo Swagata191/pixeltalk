@@ -4,7 +4,7 @@ PixelTalk is a magnificent, dark-themed **Convolutional Neural Network (CNN) dig
 
 The interface is wrapped in a high-performance **cyberpunk matrix layout** (using deep blues, dark purples, and electric cyans) complete with an interactive canvas background that brings neural network outputs to life with responsive pixel-burst animations.
 
-![Homepage](screenshots/homepage.png)
+<img src="screenshots/homepage.png" alt="Homepage" border="10">
 
 ---
 
@@ -66,4 +66,6 @@ In accordance with the SuPrazo AI Usage Policy, Artificial Intelligence tools (G
 
 ---
 
-## Developed by Swagata Maji
+## 👤 Author
+
+### Developed by Swagata Maji
