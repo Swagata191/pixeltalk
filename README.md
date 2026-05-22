@@ -1,4 +1,4 @@
-# 🔢 PixelTalk // Digit Recognition Dashboard
+# 🔢 PixelTalk - A Digit Recognition Dashboard
 
 PixelTalk is a magnificent, dark-themed **Convolutional Neural Network (CNN) digit classification dashboard** built with Streamlit, TensorFlow, and Plotly. The system is engineered to provide realtime inference and deep visual diagnostics of handwritten digits from the MNIST dataset.
 
