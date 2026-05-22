@@ -25,10 +25,12 @@ The interface is wrapped in a high-performance **cyberpunk matrix layout** (usin
 ├── digit_recognition_model.h5  # Compiled Feed-Forward Keras CNN core weights
 ├── model_training.ipynb        # Jupyter notebook documenting architecture training pipelines
 └── requirements.txt            # Python dependencies
+```
 
 ---
 
 ## 🛠️ Installation & Setup
+
 Ensure you have a Python environment initialized (Python 3.9 - 3.11 recommended).
 Clone or Download the Repository.
 ```
